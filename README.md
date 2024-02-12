@@ -1,18 +1,17 @@
 <h1 align="center">Hi 👋, I'm Ahmed Gafsi</h1>
-<h3 align="center">A passionate Software Engineering Student | Full-Stack MERN | Next. js developer  🇹🇳</h3>
+<h3 align="center">A passionate Software Engineer </h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedgaf&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedgaf" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ahmed__gafsi" target="blank"><img src="https://img.shields.io/twitter/follow/ahmed__gafsi?logo=twitter&style=for-the-badge" alt="ahmed__gafsi" /></a> </p>
 
-- 🌱 I’m currently learning **Angular , Spring Boot**
+- 🌱 I’m currently learning **Data Science & Machine Learning**
 
-- 💬 Ask me about **react, node.js**
+- 💬 Ask me about **react, node.js, next.js**
 
 - 📫 How to reach me **ahmedgafsi-@outlook.com**
 
-- ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
